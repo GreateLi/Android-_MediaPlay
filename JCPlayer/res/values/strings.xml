@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World,JCPlay!</string>
+    <string name="app_name">JCPlayer</string>
+    <string name="urlsong">http://tingge.5nd.com/20060919//2015/2015-3-12/66244/1.Mp3</string>
+    <string name="playing">正在播放</string>
+ 
+</resources>

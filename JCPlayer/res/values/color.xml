@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="background">#FF000000</color>
+<color name="control_back">#AA00003D</color>
+<color name="dialog_back">#330000FF</color>
+    <color name="green">#FF4BB493</color>
+    <color name="gray">#FF808080</color>
+    <color name="gray2">#FFDFDFDF</color>
+    <color name="gray3">#FFD9D9D9</color>
+    <color name="gray4">#FFEDEDED</color>
+    <color name="yota">#FFFC5F6E</color>
+    <color name="graybackground">#FFEEEEEE</color>
+    <color name="tabtext">#FF929292</color>
+    <color name="garyfiler">#FFE6E6E6</color>
+    <color name="red">#FFFF0000</color>
+    <color name="transparent">#00000000</color>
+</resources>
